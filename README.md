@@ -23,7 +23,7 @@ Here is my primary skills:
 * Illustrator
 * Javascript
 * 3D skills
-    * After Effets
+    * After Effects
     * Maya
 * Photoshop
 * Arduino
