@@ -11,7 +11,9 @@ Here is a list of my primary skills:
 * Maya 3D
 * After Effects
 
+#### Social Media
 
+*  [:computer: My Instagram](https://www.instagram.com/jacknsoda/)
 
 
 
