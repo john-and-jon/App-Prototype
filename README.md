@@ -29,4 +29,4 @@ Here is my primary skills:
 * Arduino
 
 Here is my facebook advertising company [Cool Link](www.facebook.com/chariottravel).
-:heart::heart::heart::heart::heart::heart::heart::heart::heart::heart::heart:
+:heart::heart::heart::heart::heart:
